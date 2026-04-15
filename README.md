@@ -22,6 +22,5 @@
 <img width="1305" height="307" alt="Image" src="https://github.com/user-attachments/assets/5794e59c-74d9-4b8f-bbfc-d0765d2b90c2" />
 <!-- Uploading "saas schemas 3 customer input.png"... -->
 <!-- Uploading "saas schemas 4 customer input.png"... -->
-<img width="596" height="142" alt="Image" src="https://github.com/user-attachments/assets/dc855ad5-887f-402e-b0ca-3cbe78e3e486" />
 <!-- Uploading "survival analysis 1.png"... -->
 <!-- Uploading "survival analysis 2.png"... -->
